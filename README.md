@@ -147,45 +147,45 @@ holistic_data_preparer_final_project/
 
 ### 📥 Data Source Summary
 
-![Data Source Summary](./screenshots/data-source-summary.png)
+![Data Source Summary](./screenshots/1%20B-source%20summery.png)
 
 This screenshot shows the summary of the source files used in the project.
 
 ### 🧹 Data Understanding and Cleaning
 
-![Data Understanding and Cleaning](./screenshots/data-understanding-cleaning.png)
+![Data Understanding and Cleaning](./screenshots/2%20C-data%20u%26c.png)
 
 This section shows dataset inspection and missing value handling steps.
 
 ### 📉 Outlier Handling
 
-![Outlier Handling](./screenshots/outlier-handling.png)
+![Outlier Handling](./screenshots/3%20D-%20outliers.png)
 
 This screenshot highlights the outlier detection and treatment stage.
 
 ### 🏗️ Feature Engineering
 
-![Feature Engineering](./screenshots/feature-engineering.png)
+![Feature Engineering](./screenshots/4%20E-%20feature%20engg.png)
 
 This stage includes encoding, binning, and creation of new useful features.
 
 ### ⚖️ Feature Scaling
 
-![Feature Scaling](./screenshots/feature-scaling.png)
+![Feature Scaling](./screenshots/5%20F-feature%20scalling.png)
 
 This screenshot shows the scaling methods applied to numerical features.
 
 ### 🔁 Feature Construction and Transformation
 
-![Feature Construction and Transformation - 1](./screenshots/feature-construction-transformation-1.png)
+![Feature Construction and Transformation - 1](./screenshots/6%20G-%20features%20const%20%26%20trans%201.png)
 
-![Feature Construction and Transformation - 2](./screenshots/feature-construction-transformation-2.png)
+![Feature Construction and Transformation - 2](./screenshots/6%20G-%20features%20const%20%26%20trans%202.png)
 
 These screenshots show feature construction and transformation steps used before the final dataset export.
 
 ### ✅ Final Dataset
 
-![Final Dataset](./screenshots/final-dataset.png)
+![Final Dataset](./screenshots/7%20H-final%20dataset.png)
 
 This screenshot shows the final processed dataset ready for machine learning.
 
